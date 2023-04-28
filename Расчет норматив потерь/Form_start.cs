@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Расчет_норматив_потерь
 {
-    public partial class Form1 : Form
+    public partial class Form_start : Form
     {
-        public Form1()
+        public Form_start()
         {
             InitializeComponent();
         }
