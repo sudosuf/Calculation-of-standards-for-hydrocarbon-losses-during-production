@@ -1,0 +1,1 @@
+﻿SELECT * FROM technological_losses_of_natural_gas_and_condensate_at_primary_GDI_and_GKI_wells;

@@ -29,10 +29,17 @@ namespace Расчет_норматив_потерь
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Form_start
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(964, 552);
+            this.Name = "Form_start";
             this.Text = "Form_start";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
